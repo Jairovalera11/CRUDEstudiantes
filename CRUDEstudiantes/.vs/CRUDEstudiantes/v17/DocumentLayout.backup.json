@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\jairo\\OneDrive\\Escritorio\\Tareas del ITLA\\programacion 3\\CRUDEstudiantes\\CRUDEstudiantes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jairo\\OneDrive\\Escritorio\\Tareas del ITLA\\programacion 3\\CRUDEstudiantes\\CRUDEstudiantes\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jairo\\OneDrive\\Escritorio\\Tareas del ITLA\\programacion 3\\CRUDEstudiantes\\CRUDEstudiantes\\Controllers\\StudentController.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\StudentController.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -27,19 +23,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\jairo\\OneDrive\\Escritorio\\Tareas del ITLA\\programacion 3\\CRUDEstudiantes\\CRUDEstudiantes\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "C:\\Users\\jairo\\OneDrive\\Escritorio\\Tareas del ITLA\\programacion 3\\CRUDEstudiantes\\CRUDEstudiantes\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T01:55:35.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\jairo\\OneDrive\\Escritorio\\Tareas del ITLA\\programacion 3\\CRUDEstudiantes\\CRUDEstudiantes\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
